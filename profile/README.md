@@ -66,16 +66,17 @@ Three interlocked strands of expertise that no competitor can replicate, the unf
 
 ### [TuttoAtletica](https://tuttoatletica.it)
 
-*Digital Platform · NLP · Big Data*
+*Digital Platform · Mobile Apps · NLP · Big Data*
 
-A web portal dedicated to Italian track & field, built to make competitions, results, and athlete profiles instantly accessible to athletes, coaches, officials, and fans. Data is linked to official FIDAL sources, with thousands of unstructured race documents read and catalogued through custom NLP pipelines, then turned into a clean, queryable database.
+A web platform and native iOS and Android apps dedicated to Italian track & field, built to make competitions, results, and athlete profiles instantly accessible to athletes, coaches, officials, and fans. Data is linked to official FIDAL sources, with thousands of unstructured race documents read and catalogued through custom NLP pipelines, then turned into a clean, queryable database of more than 540,000 athletes and 10 million results.
 
-- Advanced search across competitions by region, level, category, and discipline, with live countdowns and a full historical archive.
-- Athlete profiles with complete participation history, podium highlights, and a follow system to track favourites.
-- Race detail pages with disciplines, schedules, full results tables, and direct links to the official FIDAL page.
-- Secure user accounts with email verification, encrypted credentials, and token-based authentication.
+- Advanced search across competitions by region, level, category, discipline, and distance from a city, with live countdowns, entry lists, and a full historical archive.
+- Athlete profiles with complete history, personal bests, podium highlights, individual Italian titles, and a follow system to track favourites.
+- Stryde League: a rating system that ranks athletes by who they beat, with weekly movers and boards by discipline.
+- Live results, rankings, and national and world records, with race pages that link straight to the official FIDAL page.
+- Websites for athletics clubs, filled in automatically from the data, and TuttoFantaAtletica, a fantasy game on athletics (2026 edition).
 
-`React` · `Node.js API` · `MongoDB` · `NLP / LLM` · `FIDAL Data`
+`React` · `Node.js API` · `MongoDB` · `NLP / LLM` · `FIDAL Data` · `iOS & Android`
 
 ## Recognition: Myllennium Award 2026 winners
 
